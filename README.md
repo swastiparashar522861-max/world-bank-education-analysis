@@ -141,13 +141,13 @@ After running the notebook, the following files are saved:
 |---------------------|------------------------|
 | ![Heatmap](./output/correlation_heatmap.png) | ![Elbow Curve](./output/elbow_curve.png) |
 
-### Interactive Dashboards (HTML)
-Click to explore the full interactive versions:
+## 📊 Interactive Dashboards
 
-| Education Trends | Education Spending Map |
-|-----------------|----------------------|
-| [![Trends Preview](./output/trends_preview.png)](./output/education_trends.html) | [![Map Preview](./output/map_preview.png)](./output/education_spending_map.html) |
+### Education Trends Dashboard
+[Click to view live](https://htmlpreview.github.io/?https://github.com/swastiparashar522861-max/world-bank-education-analysis/blob/main/output/education_trends.html)
 
+### Education Spending Map  
+[Click to view live](https://htmlpreview.github.io/?https://github.com/swastiparashar522861-max/world-bank-education-analysis/blob/main/output/education_spending_map.html)
 **📌 Instructions:** 
 - HTML files will open in your browser
 - If GitHub blocks preview, download and open locally
