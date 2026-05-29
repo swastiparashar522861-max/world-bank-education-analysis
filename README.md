@@ -134,7 +134,28 @@ After running the notebook, the following files are saved:
 - `kpi_dashboard.csv`
 - `final_report.txt`
 
----
+## 📊 Analysis Outputs
+
+### Static Visualizations
+| Correlation Analysis | Clustering Optimization |
+|---------------------|------------------------|
+| ![Heatmap](./output/correlation_heatmap.png) | ![Elbow Curve](./output/elbow_curve.png) |
+
+### Interactive Dashboards (HTML)
+Click to explore the full interactive versions:
+
+| Education Trends | Education Spending Map |
+|-----------------|----------------------|
+| [![Trends Preview](./output/trends_preview.png)](./output/education_trends.html) | [![Map Preview](./output/map_preview.png)](./output/education_spending_map.html) |
+
+**📌 Instructions:** 
+- HTML files will open in your browser
+- If GitHub blocks preview, download and open locally
+- Hover over charts for tooltips and zoom options
+
+👤 Author
+Swasti Parashar |@swastiparashar522861-max| www.linkedin.com/in/swasti-parashar-178a4a3b8
+
 
 ## 📄 License
 
